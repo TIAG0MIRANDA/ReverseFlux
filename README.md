@@ -1,16 +1,13 @@
 # ReverseFlux
 Escreva palavras invertidas 
 
-# RollForAdventure
-Rolagem de dados RPG
-
-# Rolagem de Dados de RPG
+# Inversor de Palavras
 
 Este projeto é uma aplicação simples em HTML, CSS e JavaScript que inverte as letras de cada palavra de um texto sem alterar a ordem das palavras. O usuário insere um texto, e ao clicar no botão, o texto processado aparece logo abaixo.
 
 ## Demonstração
 
-![Demonstração do Gerador de Dados](img/DemonstraçãodoGeradordeDados.png) 
+![Demonstração do Gerador de Dados](img/DemonstraçãodoReverseFlux.png) 
 
 ## Funcionalidades
 
